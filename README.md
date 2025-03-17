@@ -1,4 +1,5 @@
 # Atvidade-CSS-grid
-- Grid Layout
-- Grid Template
-- Grid Area
+o que estou aprendendo:
+  - Grid Layout
+  - Grid Template
+  - Grid Area
